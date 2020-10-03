@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\QuadEquation\QEqLibrary\bin\Debug\QEqLibrary.dll
+C:\Users\admin\source\repos\QuadEquation\QEqLibrary\bin\Debug\QEqLibrary.pdb
+C:\Users\admin\source\repos\QuadEquation\QEqLibrary\obj\Debug\QEqLibrary.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\QuadEquation\QEqLibrary\obj\Debug\QEqLibrary.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\QuadEquation\QEqLibrary\obj\Debug\QEqLibrary.dll
+C:\Users\admin\source\repos\QuadEquation\QEqLibrary\obj\Debug\QEqLibrary.pdb

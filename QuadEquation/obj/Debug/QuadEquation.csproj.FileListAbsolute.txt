@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\QuadEquation\QuadEquation\bin\Debug\QuadEquation.exe
+C:\Users\admin\source\repos\QuadEquation\QuadEquation\bin\Debug\QuadEquation.pdb
+C:\Users\admin\source\repos\QuadEquation\QuadEquation\obj\Debug\QuadEquation.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\QuadEquation\QuadEquation\obj\Debug\QuadEquation.Properties.Resources.resources
+C:\Users\admin\source\repos\QuadEquation\QuadEquation\obj\Debug\QuadEquation.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\QuadEquation\QuadEquation\obj\Debug\QuadEquation.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\QuadEquation\QuadEquation\obj\Debug\QuadEquation.exe
+C:\Users\admin\source\repos\QuadEquation\QuadEquation\obj\Debug\QuadEquation.pdb
+C:\Users\admin\source\repos\QuadEquation\QuadEquation\bin\Debug\QEqLibrary.dll
+C:\Users\admin\source\repos\QuadEquation\QuadEquation\bin\Debug\QEqLibrary.pdb
+C:\Users\admin\source\repos\QuadEquation\QuadEquation\obj\Debug\QuadEquation.csproj.CopyComplete
